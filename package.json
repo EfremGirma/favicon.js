@@ -8,7 +8,7 @@
     "url": "https://github.com/johnsorrentino/guitartunerjs/issues"
   },
   "dependencies": {
-    "@swc/helpers": "^0.3.8"
+    "@swc/helpers": "^0.5.15"
   },
   "devDependencies": {
     "parcel": "latest"
